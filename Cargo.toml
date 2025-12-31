@@ -1,0 +1,10 @@
+[package]
+name = "banana_autoclicker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.28"
+enigo = "0.2"
+device_query = "2.0"
+image = "0.25"
